@@ -1,2 +1,2 @@
 # regex
-![Image regex](https://github.com/cxlan2002/regex/raw/master/img/refext.png)
+![Image regex](https://raw.githubusercontent.com/cxlan2002/regex/master/img/regex.png)
